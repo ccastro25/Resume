@@ -4,11 +4,12 @@
 * location: Philadelphia, PA 19124
 * phone:  267-456-8617 
 * email: caonabocastro25@gmail.com 
-* LinkedIn: https://www.linkedin.com/in/caonabo-castro/
+* LinkedIn: [https://www.linkedin.com/in/caonabo-castro/]
+
 ### Summary
 Technically sophisticated engineering professional with experience in developing apps and delivering comprehensive IT solutions for high-growth organizations.
  
-### Areas of Expertise
+#### Areas of Expertise
  
 ​ ​Broad knowledge and success in an engineering development environment, to include requirements gathering/assessment and full life cycle project management. 
  
