@@ -29,9 +29,9 @@ Technically sophisticated engineering professional with experience in developing
 * JavaScript 
  
 #### Professional Experience
-###### JP Morgan Chase, Newark, DA
-Python Developer & Analyst (12/2016 – 8/2019)
-Oversee applications that monitor and record business and financial transactions by maintaining, developing, and debugging errors within the applications. Format and add additional sheets to Excel download using LxsxWriter.
+##### JP Morgan Chase, Newark, DA
+* Python Developer & Analyst (12/2016 – 8/2019)
+Oversee applications that monitor and record business and financial transactions by maintaining, developing, and debugging errors within the applications. 
  
 #### Key Achievements:
  
@@ -47,9 +47,9 @@ Achieved perfect safety record while driving 500+ miles per week, as well as hoo
  
 #### Key Achievements:
  
-​•​Led team training, completing driver training in safety requirements and drive protocols.  
+* ​Led team training, completing driver training in safety requirements and drive protocols.  
  
-​•​Achieved unparalleled customer service, driving retention and loyalty by solving issues and delivering solutions quickly and efficiently.  
+* ​Achieved unparalleled customer service, driving retention and loyalty by solving issues and delivering solutions quickly and efficiently.  
  
 ### Education
  
